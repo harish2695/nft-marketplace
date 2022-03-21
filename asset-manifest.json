@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/nft-marketplace/static/js/main.a11e50b2.chunk.js",
-    "main.js.map": "/nft-marketplace/static/js/main.a11e50b2.chunk.js.map",
+    "main.js": "/nft-marketplace/static/js/main.c52efe70.chunk.js",
+    "main.js.map": "/nft-marketplace/static/js/main.c52efe70.chunk.js.map",
     "runtime-main.js": "/nft-marketplace/static/js/runtime-main.3ba3231d.js",
     "runtime-main.js.map": "/nft-marketplace/static/js/runtime-main.3ba3231d.js.map",
     "static/css/2.013db2dd.chunk.css": "/nft-marketplace/static/css/2.013db2dd.chunk.css",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.3ba3231d.js",
     "static/css/2.013db2dd.chunk.css",
     "static/js/2.fb022904.chunk.js",
-    "static/js/main.a11e50b2.chunk.js"
+    "static/js/main.c52efe70.chunk.js"
   ]
 }
